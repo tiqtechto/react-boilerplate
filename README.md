@@ -74,11 +74,5 @@ To modify Webpack settings for production or development:
 2. Adjust the options such as entry points, output directories, loaders (e.g., Babel for JavaScript and CSS loaders), and plugins.
 3. Restart the development server to apply the new configurations.
 
-By default, the setup includes optimizations like hot module replacement and fast source maps for a smooth development experience.
-
-
-
-
-
 
 
