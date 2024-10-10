@@ -36,30 +36,30 @@ A **React Boilerplate** to kickstart your projects with a simple, scalable, and 
 ├── .gitignore          # Files to be ignored in version control
 ├── package.json        # Project metadata and dependencies
 └── README.md           # Documentation for the project
-
+```
 ---
 
 ##Installation
 ## 1.Clone the repository:
 ```bash
 git clone https://github.com/yourusername/react-boilerplate.git
-
+```
 ## 2.Navigate to the project directory:
 ```bash
 cd react-boilerplate
-
+```
 ## 3. First time run
 ```bash 
 npm init
-
+```
 ## 4. Install dependencies:
 ```bash 
 npm install
-
+```
 ## 5. Run the development server:
 ```bash 
 react-scripts start
-
+```
 ---
 
 ## Webpack Setup
@@ -72,7 +72,7 @@ To modify Webpack settings for production or development:
 
 1. Open the `webpack.config.dev.js` file for development configurations.
 2. Adjust the options such as entry points, output directories, loaders (e.g., Babel for JavaScript and CSS loaders), and plugins.
-3. Restart the development server to apply the new configurations.
+3. Restart the development server to apply the new configurations. 
 
 
 
